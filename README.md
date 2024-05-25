@@ -24,18 +24,18 @@
    Conhecimento em:
       <br />
       <br />
+  &nbsp
+      <img align="center"  title="Dart" alt="Dart" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+   &nbsp
+      <img align="center"  title="Dart" alt="Dart" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" />
    &nbsp
       <img align="center" title="Flutter" alt="Flutter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
    &nbsp
       <img align="center"  title="Dart" alt="Dart" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" />
    &nbsp
       <img align="center"  title="Dart" alt="Dart" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
-   &nbsp
-      <img align="center"  title="Dart" alt="Dart" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" />
-   &nbsp
+  &nbsp
       <img align="center"  title="Dart" alt="Dart" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-   &nbsp
-      <img align="center"  title="Dart" alt="Dart" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
    &nbsp
           
      
